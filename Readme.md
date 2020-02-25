@@ -1,1 +1,1 @@
-[Portfolio](https://kongkip.github.io/porfolio/)
+[Portfolio](https://kongkip.github.io/portfolio/)
